@@ -1,2 +1,2 @@
 # Sailbot
-Wikidata bot
+Wikidata bot: https://www.wikidata.org/wiki/User:Sailbot
